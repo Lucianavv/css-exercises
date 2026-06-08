@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-numbered{
+    background-color: rgb(253, 140, 162);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.cool-font-size{
+    font-size: 24px;
+}
+#second{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: rgb(131, 244, 131);
+    font-weight: bold;
+}
